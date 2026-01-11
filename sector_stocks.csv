@@ -1,0 +1,303 @@
+Symbol,Sector,Sector_Code
+AAPL,Technology,XLK
+MSFT,Technology,XLK
+NVDA,Technology,XLK
+AVGO,Technology,XLK
+CRM,Technology,XLK
+ORCL,Technology,XLK
+CSCO,Technology,XLK
+ACN,Technology,XLK
+AMD,Technology,XLK
+ADBE,Technology,XLK
+INTU,Technology,XLK
+IBM,Technology,XLK
+TXN,Technology,XLK
+QCOM,Technology,XLK
+NOW,Technology,XLK
+AMAT,Technology,XLK
+PANW,Technology,XLK
+MU,Technology,XLK
+ADI,Technology,XLK
+LRCX,Technology,XLK
+KLAC,Technology,XLK
+SNPS,Technology,XLK
+CDNS,Technology,XLK
+CRWD,Technology,XLK
+ADSK,Technology,XLK
+FTNT,Technology,XLK
+MCHP,Technology,XLK
+ROP,Technology,XLK
+NXPI,Technology,XLK
+APH,Technology,XLK
+FICO,Technology,XLK
+MSI,Technology,XLK
+ON,Technology,XLK
+CARR,Technology,XLK
+CTSH,Technology,XLK
+CDW,Technology,XLK
+GLW,Technology,XLK
+HPQ,Technology,XLK
+MPWR,Technology,XLK
+KEYS,Technology,XLK
+TYL,Technology,XLK
+TER,Technology,XLK
+TRMB,Technology,XLK
+TDY,Technology,XLK
+ZBRA,Technology,XLK
+STX,Technology,XLK
+NTAP,Technology,XLK
+WDC,Technology,XLK
+PTC,Technology,XLK
+SWKS,Technology,XLK
+AKAM,Technology,XLK
+VRSN,Technology,XLK
+FFIV,Technology,XLK
+ENPH,Technology,XLK
+GEN,Technology,XLK
+SMCI,Technology,XLK
+FSLR,Technology,XLK
+JBL,Technology,XLK
+EPAM,Technology,XLK
+GDDY,Technology,XLK
+UNH,Healthcare,XLV
+JNJ,Healthcare,XLV
+LLY,Healthcare,XLV
+ABBV,Healthcare,XLV
+MRK,Healthcare,XLV
+TMO,Healthcare,XLV
+ABT,Healthcare,XLV
+DHR,Healthcare,XLV
+PFE,Healthcare,XLV
+AMGN,Healthcare,XLV
+BSX,Healthcare,XLV
+ISRG,Healthcare,XLV
+SYK,Healthcare,XLV
+GILD,Healthcare,XLV
+VRTX,Healthcare,XLV
+BMY,Healthcare,XLV
+MDT,Healthcare,XLV
+ELV,Healthcare,XLV
+CI,Healthcare,XLV
+CVS,Healthcare,XLV
+REGN,Healthcare,XLV
+HCA,Healthcare,XLV
+MCK,Healthcare,XLV
+ZTS,Healthcare,XLV
+COR,Healthcare,XLV
+BDX,Healthcare,XLV
+EW,Healthcare,XLV
+A,Healthcare,XLV
+IQV,Healthcare,XLV
+RMD,Healthcare,XLV
+IDXX,Healthcare,XLV
+HUM,Healthcare,XLV
+DXCM,Healthcare,XLV
+CNC,Healthcare,XLV
+MTD,Healthcare,XLV
+STE,Healthcare,XLV
+GEHC,Healthcare,XLV
+COO,Healthcare,XLV
+PODD,Healthcare,XLV
+SOLV,Healthcare,XLV
+BAX,Healthcare,XLV
+LH,Healthcare,XLV
+VTRS,Healthcare,XLV
+ALGN,Healthcare,XLV
+MOH,Healthcare,XLV
+WST,Healthcare,XLV
+CAH,Healthcare,XLV
+TFX,Healthcare,XLV
+HSIC,Healthcare,XLV
+WAT,Healthcare,XLV
+DGX,Healthcare,XLV
+SYM,Healthcare,XLV
+TECH,Healthcare,XLV
+RVTY,Healthcare,XLV
+INCY,Healthcare,XLV
+MRNA,Healthcare,XLV
+BIIB,Healthcare,XLV
+BIO,Healthcare,XLV
+HOLX,Healthcare,XLV
+UHS,Healthcare,XLV
+DVA,Healthcare,XLV
+CRL,Healthcare,XLV
+XRAY,Healthcare,XLV
+JPM,Financial,XLF
+BAC,Financial,XLF
+WFC,Financial,XLF
+MS,Financial,XLF
+GS,Financial,XLF
+C,Financial,XLF
+SPGI,Financial,XLF
+BLK,Financial,XLF
+AXP,Financial,XLF
+SCHW,Financial,XLF
+BX,Financial,XLF
+CB,Financial,XLF
+MMC,Financial,XLF
+PGR,Financial,XLF
+KKR,Financial,XLF
+ICE,Financial,XLF
+CME,Financial,XLF
+AFL,Financial,XLF
+USB,Financial,XLF
+PNC,Financial,XLF
+AON,Financial,XLF
+TFC,Financial,XLF
+COF,Financial,XLF
+AJG,Financial,XLF
+TRV,Financial,XLF
+AIG,Financial,XLF
+MET,Financial,XLF
+MCO,Financial,XLF
+ALL,Financial,XLF
+AMP,Financial,XLF
+PRU,Financial,XLF
+BK,Financial,XLF
+FIS,Financial,XLF
+MSCI,Financial,XLF
+HIG,Financial,XLF
+ACGL,Financial,XLF
+WTW,Financial,XLF
+MTB,Financial,XLF
+FITB,Financial,XLF
+GPN,Financial,XLF
+RJF,Financial,XLF
+STT,Financial,XLF
+BRO,Financial,XLF
+TROW,Financial,XLF
+SYF,Financial,XLF
+HBAN,Financial,XLF
+CPAY,Financial,XLF
+CINF,Financial,XLF
+RF,Financial,XLF
+CFG,Financial,XLF
+WRB,Financial,XLF
+NTRS,Financial,XLF
+FDS,Financial,XLF
+KEY,Financial,XLF
+EG,Financial,XLF
+L,Financial,XLF
+PFG,Financial,XLF
+GL,Financial,XLF
+AIZ,Financial,XLF
+CBOE,Financial,XLF
+IVZ,Financial,XLF
+MKTX,Financial,XLF
+BEN,Financial,XLF
+JEF,Financial,XLF
+ERIE,Financial,XLF
+GE,Industrial,XLI
+CAT,Industrial,XLI
+RTX,Industrial,XLI
+HON,Industrial,XLI
+UNP,Industrial,XLI
+ETN,Industrial,XLI
+ADP,Industrial,XLI
+BA,Industrial,XLI
+DE,Industrial,XLI
+LMT,Industrial,XLI
+UPS,Industrial,XLI
+GEV,Industrial,XLI
+TT,Industrial,XLI
+GD,Industrial,XLI
+PH,Industrial,XLI
+WM,Industrial,XLI
+TDG,Industrial,XLI
+ITW,Industrial,XLI
+MMM,Industrial,XLI
+CSX,Industrial,XLI
+EMR,Industrial,XLI
+NOC,Industrial,XLI
+CTAS,Industrial,XLI
+FDX,Industrial,XLI
+NSC,Industrial,XLI
+PCAR,Industrial,XLI
+URI,Industrial,XLI
+JCI,Industrial,XLI
+GWW,Industrial,XLI
+RSG,Industrial,XLI
+CARR,Industrial,XLI
+PAYX,Industrial,XLI
+CMI,Industrial,XLI
+CPRT,Industrial,XLI
+FAST,Industrial,XLI
+OTIS,Industrial,XLI
+PWR,Industrial,XLI
+HWM,Industrial,XLI
+AME,Industrial,XLI
+AXON,Industrial,XLI
+ODFL,Industrial,XLI
+IR,Industrial,XLI
+DAL,Industrial,XLI
+VRSK,Industrial,XLI
+LHX,Industrial,XLI
+EFX,Industrial,XLI
+ROK,Industrial,XLI
+UAL,Industrial,XLI
+XYL,Industrial,XLI
+VLTO,Industrial,XLI
+DOV,Industrial,XLI
+BR,Industrial,XLI
+HUBB,Industrial,XLI
+FTV,Industrial,XLI
+LDOS,Industrial,XLI
+J,Industrial,XLI
+SNA,Industrial,XLI
+BLDR,Industrial,XLI
+EXPD,Industrial,XLI
+PNR,Industrial,XLI
+MAS,Industrial,XLI
+IEX,Industrial,XLI
+TXT,Industrial,XLI
+JBHT,Industrial,XLI
+SWK,Industrial,XLI
+NDSN,Industrial,XLI
+AMZN,Consumer Discretionary,XLY
+TSLA,Consumer Discretionary,XLY
+HD,Consumer Discretionary,XLY
+MCD,Consumer Discretionary,XLY
+NKE,Consumer Discretionary,XLY
+BKNG,Consumer Discretionary,XLY
+LOW,Consumer Discretionary,XLY
+SBUX,Consumer Discretionary,XLY
+TJX,Consumer Discretionary,XLY
+CMG,Consumer Discretionary,XLY
+ORLY,Consumer Discretionary,XLY
+MAR,Consumer Discretionary,XLY
+GM,Consumer Discretionary,XLY
+ABNB,Consumer Discretionary,XLY
+F,Consumer Discretionary,XLY
+HLT,Consumer Discretionary,XLY
+AZO,Consumer Discretionary,XLY
+ROST,Consumer Discretionary,XLY
+DHI,Consumer Discretionary,XLY
+LEN,Consumer Discretionary,XLY
+YUM,Consumer Discretionary,XLY
+LULU,Consumer Discretionary,XLY
+GRMN,Consumer Discretionary,XLY
+EBAY,Consumer Discretionary,XLY
+TSCO,Consumer Discretionary,XLY
+NVR,Consumer Discretionary,XLY
+DECK,Consumer Discretionary,XLY
+PHM,Consumer Discretionary,XLY
+CCL,Consumer Discretionary,XLY
+DRI,Consumer Discretionary,XLY
+LVS,Consumer Discretionary,XLY
+ULTA,Consumer Discretionary,XLY
+GPC,Consumer Discretionary,XLY
+BBY,Consumer Discretionary,XLY
+RCL,Consumer Discretionary,XLY
+APTV,Consumer Discretionary,XLY
+EXPE,Consumer Discretionary,XLY
+TPR,Consumer Discretionary,XLY
+DPZ,Consumer Discretionary,XLY
+POOL,Consumer Discretionary,XLY
+CZR,Consumer Discretionary,XLY
+LKQ,Consumer Discretionary,XLY
+BWA,Consumer Discretionary,XLY
+NCLH,Consumer Discretionary,XLY
+HAS,Consumer Discretionary,XLY
+WHR,Consumer Discretionary,XLY
+RL,Consumer Discretionary,XLY
+MHK,Consumer Discretionary,XLY
