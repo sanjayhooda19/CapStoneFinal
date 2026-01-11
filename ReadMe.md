@@ -97,6 +97,7 @@ I would be using the outcome from this project for my own stock investing journe
 - [Advanced Data Analysis](https://github.com/sanjayhooda19/CapStoneFinal/blob/main/StockAnalysis_Advanced.ipynb)
 - [Update Sector stocks](https://github.com/sanjayhooda19/CapStoneFinal/blob/main/update_sector_stocks.ipynb)
 - [Economic Factors](https://github.com/sanjayhooda19/CapStoneFinal/blob/main/EconomicFactors_Analysis.ipynb)
+- [StockPricePrediction](https://github.com/sanjayhooda19/CapStoneFinal/blob/main/StockPricePrediction.ipynb#:~:text=StockPricePrediction.ipynb)
 
 
 ##### Final Thoughts
